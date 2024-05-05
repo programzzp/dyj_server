@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "internet.h": "c",
+        "httpheadinformation.h": "c",
+        "chrono": "c",
+        "algorithm": "c",
+        "system_log.h": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "limits": "c",
+        "functional": "c",
+        "array": "c",
+        "string_view": "c",
+        "optional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "ratio": "c",
+        "system_error": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "unordered_map": "c",
+        "sha.h": "c",
+        "websocketprocessor.h": "c",
+        "deque": "c",
+        "vector": "c",
+        "initializer_list": "c"
+    }
+}
