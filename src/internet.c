@@ -166,7 +166,7 @@ void epoll_add(int epfd,int fd,EPOLL_DEF *epoll_def){
  * index             ep的下标
 */
 void epoll_delete(int epfd,int clientfd){
-    #if 1
+    #if 0
         NET_LOG("epoll_delete %d\r\n",clientfd);
     #endif
     epoll_ctl(epfd,EPOLL_CTL_DEL,clientfd,NULL);

@@ -76,7 +76,6 @@ void httpQueueService(int fd){
     int clientfd = fd;
     memset(buf,0,sizeof(buf));
     n = read(clientfd,buf,sizeof(buf));
-    DEBUG_LOG("n = %d\r\n",n);
 
     if(n == 0){
         epoll_delete(epfd,clientfd);
