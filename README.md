@@ -19,7 +19,7 @@
 
 ### 软件初始化
 
-![](D:\小米云盘\桌面\blog\新建文件夹\dyj_server\img\初始化.png)
+![](https://raw.githubusercontent.com/programzzp/dyj_server/main/img/%E5%88%9D%E5%A7%8B%E5%8C%96.png)
 
 ## 软件的下载与使用
 
@@ -27,9 +27,9 @@
 
 ```bash
 git clone https://github.com/programzzp/dyj_server.git
+#进入root用户
 cd dyj_server
 ./build.sh
-#进入root用户
 ./app
 ```
 
@@ -90,7 +90,7 @@ RequestMapping(password,GET,/password){
 
 ```
 
-![](D:\小米云盘\桌面\blog\新建文件夹\dyj_server\img\resp_head.PNG)
+![](https://raw.githubusercontent.com/programzzp/dyj_server/main/img/resp_head.PNG)
 
 ### 获取请求头全部消息
 
@@ -114,7 +114,7 @@ RequestMapping(password,GET,/password){
 
 ```
 
-![](D:\小米云盘\桌面\blog\新建文件夹\dyj_server\img\req_head.PNG)
+![](https://raw.githubusercontent.com/programzzp/dyj_server/main/img/req_head.PNG)
 
 ### 通过请求链表中key获取value
 
