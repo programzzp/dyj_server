@@ -15,4 +15,4 @@
 
 ### 消息处理
 
-![](D:\小米云盘\桌面\blog\新建文件夹\dyj_server\img\消息处理流程.png)
+![](https://raw.githubusercontent.com/programzzp/dyj_server/main/img/%E6%B6%88%E6%81%AF%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B.png)
